@@ -26,4 +26,4 @@ All systems nominal. Last contact with Vessel Artemis: 2187-03-14T08:42:00Z
 ## Changelog
 
 - v1.0 — Initial protocol established
-
+- v1.0.1 — Emergency patch: cipher rotation frequency corrected
